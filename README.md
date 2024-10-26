@@ -48,11 +48,6 @@ Played a key role in developing **Chip**, an e-wallet designed to streamline fin
   <img src="./img/ios-1.png" alt="Chip iOS Screenshot 1" width="150px" style="max-width: 100%;">
   <img src="./img/ios-2.png" alt="Chip iOS Screenshot 2" width="150px" style="max-width: 100%;">
   <img src="./img/ios-3.png" alt="Chip iOS Screenshot 3" width="150px" style="max-width: 100%;">
-
-  <!-- Android Images -->
-  <img src="./img/android-1.jpg" alt="Chip Android Screenshot 1" width="150px" style="max-width: 100%;">
-  <img src="./img/android-2.jpg" alt="Chip Android Screenshot 2" width="150px" style="max-width: 100%;">
-  <img src="./img/android-3.jpg" alt="Chip Android Screenshot 3" width="150px" style="max-width: 100%;">
 </div>
 
 ---
