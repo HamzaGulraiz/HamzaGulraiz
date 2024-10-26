@@ -9,7 +9,7 @@
 
 ---
 
-### **REACT NATIVE Developer**
+### **REACT NATIVE DEVELOPER**
 
 _LAHORE, PAKISTAN (UTC+5)_
 
@@ -20,7 +20,22 @@ _LAHORE, PAKISTAN (UTC+5)_
 
 ### **About**
 
-2 years of mobile app development.
+2 years of experience in mobile app development.
+
+### **Tech Stack**
+
+- **Mobile (React Native)**:
+
+  - **Languages**: JavaScript (ES6+), TypeScript
+  - **Core Libraries**: React Native, Expo, Redux, Context API, AsyncStorage, Hooks, Axios, Styled Components
+  - **System Frameworks**: Navigation (React Navigation), Animation (Reanimated, Lottie), Geolocation, Permissions, Push Notifications, Linking, Clipboard, Camera, File System
+  - **Libs/Frameworks**: Firebase (Authentication, Firestore, Cloud Functions, Analytics), React Native Elements, React Native Paper, React Query, NativeBase, Jest MapView (for maps), react-native-svg
+  - **CI/CD**: GitHub Actions
+  - **Automation**: EAS (Expo Application Services), CocoaPods (iOS)
+
+- **Backend**: Node.js, Express, MongoDB, Firebase Realtime Database, Firestore, Google Cloud Functions, RESTful APIs
+
+- **Additional Tools**: Xcode, Android Studio, Postman, Expo CLI, VS Code, Vercel, Github
 
 ### Projects
 
