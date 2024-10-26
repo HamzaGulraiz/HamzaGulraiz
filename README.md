@@ -9,6 +9,19 @@
 
 ---
 
+### **REACT NATIVE Developer**
+
+_LAHORE, PAKISTAN (UTC+5)_
+
+- E-mail: devhamzagulraiz@gmail.com
+- StackOverflow: https://stackoverflow.com/users/23890926/hamza-gulraiz
+- LinkedIn: https://www.linkedin.com/in/hamza-gulraiz-b1a105251/
+- Web: http://covelper.com
+
+### **About**
+
+2 years of mobile app development.
+
 ### Projects
 
 #### Chip – The Smart Payment Solution for Curaçao
