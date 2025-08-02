@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1 align="start">💻 HAMZA GULRIAZ</h1>
+
 <!-- Profile banner -->
 <a href="#">
   <picture>
@@ -10,6 +12,23 @@
 ---
 
 ### 🚀 **REACT NATIVE DEVELOPER**
+
+<h3 align="start">Software Engineer | MERN Stack Developer | Musician</h3>
+
+---
+
+👨‍💻 About Me
+As a React Native developer, I’ve published production-grade apps to both the App Store and Play Store, and contributed to open-source libraries, including packages published on npm under @dev-hamza. I actively maintain my own libraries, such as custom hooks and utility tools tailored for React Native projects—aiming to support the developer community and improve mobile workflows.
+
+My development journey includes working with native modules, animations, Firebase integrations, and building robust UI/UX experiences. I also enjoy digging deeper into React Native internals, experimenting with TurboModules, and exploring performance optimizations on both Android and iOS.
+
+With a mindset geared toward growth, I'm always looking for opportunities to:
+
+Collaborate on impactful projects
+Contribute to open-source
+Learn from other developers and communities
+
+---
 
 _LAHORE, PAKISTAN (UTC+5)_
 
