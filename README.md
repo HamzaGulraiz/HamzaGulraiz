@@ -100,24 +100,28 @@ Built and maintained **Chip**, a digital wallet app allowing seamless payments, 
 📱 [App Store](https://apps.apple.com/us/app/chip-wallet/id6479026465) | 🤖 [Play Store](https://play.google.com/store/apps/details?id=com.chip.curacao&pli=1)
 
 <div style="background-color: white; padding: 10px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="./img/ios-1.png" alt="Chip iOS Screenshot 1" width="150px">
-  <img src="./img/ios-2.png" alt="Chip iOS Screenshot 2" width="150px">
-  <img src="./img/ios-3.png" alt="Chip iOS Screenshot 3" width="150px">
+  <img src="./img/chip-ios.jpg" alt="Chip iOS Screenshot" width="150px">
+  <img src="./img/chip-cards.jpg" alt="Chip Card Screenshot" width="150px">
+  <img src="./img/chip-android.jpg" alt="Chip Android Screenshot" width="150px">
 </div>
 
 ---
 
-#### 🎟️ Pendulum – Exclusive Event Management Platform
+#### 💳 Daily Dad Jokes by That’s So Dad
 
-Developed **Pendulum**, a premium event discovery and invite-based app. Enhanced the user interface and optimized event feed and location-based invitations.
-📱 [App Store](https://apps.apple.com/us/app/pendulum-members/id6476434974)
+That’s So Dad hired me to take their 3-year-old “Daily Dad Jokes” app from “functional but dated” to “App-Store-featured level.” I led a full-cycle refresh: redesigned every screen, rewrote 70 % of the legacy code, and slashed Firebase costs by 86 % while keeping the daily-joke engine intact.
+📱 [App Store](https://apps.apple.com/app/daily-dad-jokes-thats-so-dad/id6661013943) | 🤖 [Play Store](https://play.google.com/store/apps/details?id=com.dailyjokesfeed&hl=en)
+
+<div style="background-color: white; padding: 10px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="./img/dad-jokes.jpeg" alt="Dad-Jokes Screenshot" width="300px">
+</div>
 
 ---
 
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaGulraiz&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaGulraiz&show_icons=true&theme=tokyonight" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaGulraiz&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
